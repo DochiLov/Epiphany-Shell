@@ -1,2 +1,8 @@
 # Epiphany-Shell
 wrap for project 
+unzip epiphany-wrapper_v0.1.0.zip
+cd epiphany-wrapper
+git init
+git add .
+git commit -m "Epiphany Wrapper v0.1.0 (transparent runtime)"
+gh repo create epiphany-wrapper --private --source=. --remote=origin --push
