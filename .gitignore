@@ -1,0 +1,16 @@
+# Private runtime data never belongs in this public repository.
+.local/
+private/
+runs/
+.env
+.env.*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+__pycache__/
+*.py[cod]
+.venv/
