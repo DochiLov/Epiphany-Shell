@@ -1,0 +1,17 @@
+{
+  "schema": "epiphany.observer-health.v1",
+  "report_id": "00000000-0000-4000-8000-000000000001",
+  "producer": "codex-local",
+  "subject": "drift-signal-observer",
+  "observed_at": "2026-01-01T15:00:00Z",
+  "evidence": {
+    "process_state": "running",
+    "task_state": "running",
+    "phase": "collecting",
+    "heartbeat_at": "2026-01-01T14:59:58Z",
+    "last_collection_at": "2026-01-01T14:59:30Z",
+    "last_collection_result": "success",
+    "consecutive_failures": 0,
+    "stop_requested": false
+  }
+}
